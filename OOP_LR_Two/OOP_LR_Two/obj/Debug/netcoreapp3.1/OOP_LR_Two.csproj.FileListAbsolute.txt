@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\bin\Debug\netcoreapp3.1\OOP_LR_Two.exe
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\bin\Debug\netcoreapp3.1\OOP_LR_Two.deps.json
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\bin\Debug\netcoreapp3.1\OOP_LR_Two.runtimeconfig.json
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\bin\Debug\netcoreapp3.1\OOP_LR_Two.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\bin\Debug\netcoreapp3.1\OOP_LR_Two.dll
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\bin\Debug\netcoreapp3.1\OOP_LR_Two.pdb
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\obj\Debug\netcoreapp3.1\OOP_LR_Two.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\obj\Debug\netcoreapp3.1\OOP_LR_Two.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\obj\Debug\netcoreapp3.1\OOP_LR_Two.AssemblyInfo.cs
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\obj\Debug\netcoreapp3.1\OOP_LR_Two.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\obj\Debug\netcoreapp3.1\OOP_LR_Two.dll
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\obj\Debug\netcoreapp3.1\OOP_LR_Two.pdb
+C:\Users\Роман\source\repos\OOP_LR_Two\OOP_LR_Two\obj\Debug\netcoreapp3.1\OOP_LR_Two.genruntimeconfig.cache
