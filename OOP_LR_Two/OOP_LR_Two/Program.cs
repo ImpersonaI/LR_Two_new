@@ -26,15 +26,7 @@ namespace OOP_LR_Two
                 c = Convert.ToDouble(Console.ReadLine());
                 d = Convert.ToDouble(Console.ReadLine());
                 e = Convert.ToDouble(Console.ReadLine());
-                
-            }
-            catch (Exception ex) 
-            {
-                Console.WriteLine("Error: " + ex.Message);            
-            }
 
-            try
-            {
                 if (b - a + 100 == 0 || b - 2 * d == 0)
                 {
                     throw new Exception("Error: Attempted to divide by zero");
@@ -49,11 +41,14 @@ namespace OOP_LR_Two
                 k = Math.Sqrt((c - e) / Math.Abs(b - 2 * d));
                 Console.WriteLine("S = " + s);
                 Console.WriteLine("K = " + k);
+
             }
-            catch (Exception ex)
+            catch (Exception ex) 
             {
-                Console.WriteLine(ex.Message);  
+                Console.WriteLine(ex.Message);            
             }
+
+            
 
             Console.SetOut(save_out); new_out.Close();
             Console.SetIn(save_in); new_in.Close();
